@@ -1,0 +1,40 @@
+ 
+.header {
+	background-image : url("../images/header2.jpg");
+	width : 100%;
+	height : 100px;
+	margin : 0px;
+}
+
+.logoimg {
+	width : 200px;
+	height : 100px;
+	margin : 2px;
+	float : left;
+	margin: 5px 10px 10px 0px;
+}
+
+
+.post{
+	float : center;
+}
+
+.submit{ 
+	background-color:#3498db;
+	color:white;
+	border: none;
+	padding:10px;
+	margin: 15px;
+	cursor: pointer;
+}
+
+#backimg{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+    width: 100%;
+	height: 680;
+    background-attachment:fixed;
+}

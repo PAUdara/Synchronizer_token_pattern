@@ -1,0 +1,236 @@
+body {
+	background-color : white;
+	font-family : helvetica;
+	margin : 0px 4% 0px 4%;
+}
+.header {
+	background-image : url("../images/header2.jpg");
+	width : 100%;
+	height : 100px;
+	margin : 0px;
+}
+.logoimg {
+	width : 225px;
+	height : 160px;
+	margin : 2px;
+	float : left;
+	margin: 5px 10px 10px 0px;
+}
+
+.account{
+	filter : invert(100%);
+}
+.list1 {
+	color : white;
+	font-size: 150%;
+	margin-left: -12px;
+}
+.list1:hover, .list3:hover, .list2:hover{
+	background-color: white;
+	color: black;
+	padding: 5px;
+}
+.inputs{
+	width : 50%;
+	padding: 6px 8px;
+	border-radius: 5px;
+}
+.list2{
+	color: white;
+	font-size:150%;
+	margin-left: -8px;
+}
+.list3{
+	color:blue;
+	font-size:60%;
+	margin-left:-2px;
+}
+.orderbtn {
+	color : white;
+	border-radius : 10px;
+	background-color : #2ECC71;
+	padding : 8px 15px ;
+	float : right ;
+	margin : 8px 10px 0px 0px;
+}
+.logindiv {
+	float : right;
+	width : 40px;
+	height : 20px ;
+	margin : 8px 70px 0px 10px;
+}
+
+.account{
+	margin : 15px 0px 0px 0px;
+	width : 40px;
+	margin-bottom : 10px;
+	display : inline-block;
+}
+
+.wishlist{
+	width : 30px;
+	height : 20px;
+	margin : 10px 10px 10px 10px;
+}
+
+a.login {
+	padding-bottom : 4px;
+	text-decoration : none;
+	color : black;
+	font-size : 10px;
+}
+
+a.navbar-brand {
+	color : black;
+	text-decoration : none;
+	margin : 0px 0px 0px 0px;
+	padding : 5px 10px;
+
+}
+a.navbar-brand:hover{
+	color : #0984e3;
+	text-decoration : none;
+	margin : 0px 0px 0px 0px;
+	padding : 5px 10px;
+	border : 1px solid #0984e3;
+
+}
+.navilist {
+	display : inline-block;
+	margin : 5px 0px 0px 20px;
+	float : left;
+}
+
+.navibar {
+	width : 100%;
+	height : 30px;
+
+}
+.cart {
+	height : 40px;
+	width : 40px;
+	margin : -65px 0px 10px 1130px;
+}
+
+a.carttext {
+	 font-size : 17px;
+	 text-decoration: none;
+	 color : black;
+	 padding-bottom : 4px;
+	 margin : 0px 0px 0px 1100px;
+ }
+ .btn {
+	 cursor: pointer;
+	 width: 100%;
+	 color : white;
+	 font-size: 1.1em;
+	 padding: 10px 0;
+	 border: 1px solid #636e72;
+	 background-color: #636e72;
+	 margin-bottom : 4px;
+	 border-radius: 6px;
+ }
+
+ .btn:hover {
+	 background-color: white;
+	 color: #636e72;
+ }
+ .single{
+	 height : 300px;
+	 width : 200px;
+	 background-color : red;
+	 float : left;
+	 margin : 50px;
+	 border : 10px 10px 10px 50px;
+ }
+ .name2 {
+	 font-size : 3em;
+	 text-align : center;
+ }
+ .addbtn {
+	 font-size : 15px;
+	 color :black;
+	 padding-bottom : 5px;
+	 float : rigth;
+	 margin : 150px 0px 0px 10px;
+ }
+
+ .sidebar {
+	 width: 20%;
+	 display: inline-block;
+ }
+ .text {
+	 width: 400px;
+	 height: 40px;
+	 margin: 30px 0px 0px 400px;
+	 font-size: 15px;
+	 border-radius: 6px;
+	 border-color: black;
+ }
+.post{
+	float:centre;
+}
+
+.confirm{
+	background-color:#3498db;
+	background-color:#3498db;
+	color:white;
+	border: none;
+	padding:10px;
+	margin: 15px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+
+ .footer {
+	float : right;
+	background-color : yellow;
+	width : 100%;
+	height : 50px;
+ }
+
+ .flogo {
+	width : 40px;
+	height : 40px;
+	border-radius: 20px;
+	margin-left : 450px;
+  }
+.tlogo {
+	width : 40px;
+	height : 40px;
+	border-radius: 20px;
+  }
+ .ilogo {
+	width : 40px;
+	height : 40px;
+	border-radius: 20px;
+  }
+ .glogo {
+	width : 40px;
+	height : 40px;
+	border-radius: 20px;
+  }
+ .vlogo {
+	width : 40px;
+	height : 40px;
+	border-radius : 6px;
+	float : left;
+ }
+ .mlogo {
+	width : 40px;
+	height : 40px;
+	border-radius : 6px;
+	float : left;
+ }
+
+ #backimg{
+    background-image: url("../images/background image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    background-position: center;
+    width: 100%;
+		height: 125%;
+    background-attachment:fixed;
+}
